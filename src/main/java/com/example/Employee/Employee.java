@@ -1,4 +1,4 @@
-package com.ZinKo.Employee;
+package com.example.Employee;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

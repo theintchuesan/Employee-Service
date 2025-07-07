@@ -1,4 +1,4 @@
-package com.ZinKo.Employee;
+package com.example.Employee;
 
 import java.util.List;
 

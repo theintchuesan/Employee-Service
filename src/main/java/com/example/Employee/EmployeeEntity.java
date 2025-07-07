@@ -1,4 +1,4 @@
-package com.ZinKo.Employee;
+package com.example.Employee;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
